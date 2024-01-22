@@ -5,8 +5,8 @@
 body{
     font-family: 'JetBrains Mono', monospace;
     display: block;
-    background-color: #2a1319;
-    color: #ffffff;
+    background-color: #0b080a;
+    color: #b5a4e4;
     font-weight: 500;
 }
 .info {
@@ -25,9 +25,9 @@ body{
     display: inline;
     font: bold;
 }
-a{
+a, p{
     text-decoration: none;
-    color: #ffae00;
+    color: #70b2c4;
 }
 a:hover {
     text-decoration: underline 2px;
